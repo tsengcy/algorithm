@@ -4,6 +4,6 @@
 #include <iostream>
 #include <vector>
 
-
+void mergeSortSub(std::vector<float>& vOutput, int nFirst, int nEnd);
 
 #endif // SORT_SUB_H_
