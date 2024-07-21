@@ -6,7 +6,15 @@
 
 namespace sort
 {
-    bool mergeSort(std::vector<float> input, std::vector<float>& output);
+    bool mergeSort_simple(std::vector<float>& vData);
+
+    template<typename T>
+    bool mergeSort(std::vector<T>& vData);
+
+    template<typename T>
+    void print(T data);
+
+    
 }
 
 #endif //SORT_H_
