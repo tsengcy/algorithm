@@ -1,5 +1,5 @@
-#ifndef SORT_SUB_H_
-#define SORT_SUB_H_
+#ifndef SORT_SUB_HPP_
+#define SORT_SUB_HPP_
 
 #include <iostream>
 #include <vector>

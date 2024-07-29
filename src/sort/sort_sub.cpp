@@ -1,4 +1,4 @@
-#include <sort/sort_sub.h>
+#include <sort/sort_sub.hpp>
 #include <iomanip>
 
 void mergeSortSub(std::vector<float>& vOutput, int nFirst, int nEnd)
@@ -72,6 +72,7 @@ void mergeSortSub(std::vector<float>& vOutput, int nFirst, int nEnd)
     printf("\n");
 #endif
 }
+
 
 template<typename T>
 void mergeSortSub(std::vector<T>& vOutput, int nFirst, int nEnd)

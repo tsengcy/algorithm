@@ -11,10 +11,10 @@ namespace sort
     template<typename T>
     bool mergeSort(std::vector<T>& vData);
 
-    template<typename T>
-    void print(T data);
+    bool insertionSort_simple(std::vector<float>& vData);
 
-    
-}
+    template<typename T>
+    bool insertionSort(std::vector<T>& vData);
+}   
 
 #endif //SORT_H_

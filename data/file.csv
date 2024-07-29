@@ -1,0 +1,11 @@
+name,height,weight,age,gender,student
+Jason,180,60.9,123,m,TRUE
+Anderson,165,70.4,20,m,false
+Mary,140,40,10,f,true
+John,180,40,20,m,false
+Mike,181,60,20,m,false
+Tim,180.5,50,20,m,false
+mark,179,60,20,m,false
+jimmy,180.5,50,20,m,false
+sam,168,50,30,m,false
+nick,167,40,50,m,false
